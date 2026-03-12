@@ -22,7 +22,7 @@
     ],
     "destination": [
       {
-        "label": "NBX-USDM",
+        "label": "CDH Custodian",
         "details": {
           "anchorUrl": "ipfs://...",
           "anchorDataHash": "..."
