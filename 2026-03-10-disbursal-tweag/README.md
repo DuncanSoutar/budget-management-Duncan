@@ -21,15 +21,12 @@ We only cover notable outputs, other outputs may be required by the orchestratin
 
 #### Destination 0
 
-- `5,250,000 ada` to CDH's NBX account: [addr1q86l20kh85a04c7s6sxfvgt6jw033zss9tlntyq994l0chqs7xgz3gp5lhm8yl89a7xy7zlpt5p4jw5m0grpdwvt2d9svt5rhs](https://beta.cexplorer.io/address/addr1q86l20kh85a04c7s6sxfvgt6jw033zss9tlntyq994l0chqs7xgz3gp5lhm8yl89a7xy7zlpt5p4jw5m0grpdwvt2d9svt5rhs)
+- `570,323 ada` to CDH's Custodian account: [addr1q86l20kh85a04c7s6sxfvgt6jw033zss9tlntyq994l0chqs7xgz3gp5lhm8yl89a7xy7zlpt5p4jw5m0grpdwvt2d9svt5rhs](https://beta.cexplorer.io/address/addr1q86l20kh85a04c7s6sxfvgt6jw033zss9tlntyq994l0chqs7xgz3gp5lhm8yl89a7xy7zlpt5p4jw5m0grpdwvt2d9svt5rhs)
 
-#### Destination 1
-
-- `5,250,000 ada` to CDH's Anzens account: [addr1qylp42jdehm66g8072yvlml0umr9zfxxl5cdaha3al7fspkj3828tyffxykdrxla87y2dq5e64a76h7jvrkulsw8s37sycpklx](https://beta.cexplorer.io/address/addr1qylp42jdehm66g8072yvlml0umr9zfxxl5cdaha3al7fspkj3828tyffxykdrxla87y2dq5e64a76h7jvrkulsw8s37sycpklx)
 
 #### Change
 
-Excess `570,323 ada` to be returned/remain at the Treasury Reserve Contract address: [addr1xxzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6v9swzhujsjlls7dajp59u95re0qdk9vh8mumlemw89535s4ecqxj](https://beta.cexplorer.io/address/addr1xxzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6v9swzhujsjlls7dajp59u95re0qdk9vh8mumlemw89535s4ecqxj)
+No excess to be returned/remain at the Treasury Reserve Contract address: [addr1xxzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6v9swzhujsjlls7dajp59u95re0qdk9vh8mumlemw89535s4ecqxj](https://beta.cexplorer.io/address/addr1xxzc8pt7fgf0lc0x7eq6z7z6puhsxmzktna7dluahrj6g6v9swzhujsjlls7dajp59u95re0qdk9vh8mumlemw89535s4ecqxj)
 
 ### Transaction Metadata
 
@@ -37,5 +34,5 @@ See [metadata.json](./metadata.json).
 
 #### estimatedReturn
 
-We have put an estimate return of mid day Friday 24th October 2025 (UNIX: `1761307200000`),
-which is around two weeks from planned time of disburse.
+There no planned returns as part of this transaction
+
